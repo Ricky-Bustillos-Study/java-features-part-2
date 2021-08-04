@@ -10,7 +10,7 @@ public class Increment {
         var variable = 10;
         System.out.println(variable--);
         System.out.println(variable);
-        
+
     }
 
 }
